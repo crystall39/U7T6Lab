@@ -97,5 +97,11 @@ public class SortTester
     Sort.insertionSort(arr4);
     System.out.println(Arrays.toString(arr4));
     */
+
+    // Extra Credit
+    int[] array1 = {1, 56, 24, 80, 90, 46 ,36};
+    Arrays.sort(array1);
+    System.out.println(Arrays.toString(array1));
+
   }
 }
